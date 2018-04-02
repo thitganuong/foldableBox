@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="612px" height="792px" viewBox="0 0 612 792" enable-background="new 0 0 612 792" xml:space="preserve">
+	<g id="part">
+		<g id="armLeft">
+			<g id="background">
+				<polygon id="color:skin" fill="#F4F4E1" points="472,667 517,667 517,697 472,697"/>
+				<polygon id="color:skin" fill="#F4F4E1" points="487,577 502,577 517,667 472,667"/>
+				<polygon id="color:skin" fill="#F4F4E1" points="472,697 517,697 502,787 487,787"/>
+				<polygon id="color:skin" fill="#F4F4E1" points="607,682 517,697 517,667"/>
+				<polygon id="color:skin" fill="#F4F4E1" points="382,682 472,667 472,697"/>
+			</g>
+			<g id="foreground">
+			</g>
+			<g id="border">
+				<polygon id="front" fill="none" points="472,667 517,667 517,697 472,697"/>
+				<polygon id="top" opacity="0.25" fill="none" stroke="#000000" stroke-dasharray="1,3" points="487,577 502,577 517,667 472,667"/>
+				<polygon id="bottom" opacity="0.25" fill="none" stroke="#000000" stroke-dasharray="1,3" points="472,697 517,697 502,787 487,787"/>
+				<polygon id="left" opacity="0.25" fill="none" stroke="#000000" stroke-dasharray="1,3" points="607,682 517,697 517,667"/>
+				<polygon id="right" opacity="0.25" fill="none" stroke="#000000" stroke-dasharray="1,3" points="382,682 472,667 472,697"/>
+			</g>
+			<g id="outline">
+				<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="502,577 527,657 517,667 607,682 517,697 527,707 502,787 487,787 462,707 472,697 382,682 472,667 462,657 487,577"/>
+			</g>
+		</g>
+		<g id="armRight">
+			<g id="background">
+				<polygon id="color:skin" fill="#F4F4E1" points="127,667 172,667 172,697 127,697"/>
+				<polygon id="color:skin" fill="#F4F4E1" points="142,577 157,577 172,667 127,667"/>
+				<polygon id="color:skin" fill="#F4F4E1" points="127,697 172,697 157,787 142,787"/>
+				<polygon id="color:skin" fill="#F4F4E1" points="262,682 172,697 172,667"/>
+				<polygon id="color:skin" fill="#F4F4E1" points="37,682 127,667 127,697"/>
+			</g>
+			<g id="foreground">
+			</g>
+			<g id="border">
+				<polygon id="front" fill="none" points="127,667 172,667 172,697 127,697"/>
+				<polygon id="top" opacity="0.25" fill="none" stroke="#000000" stroke-dasharray="1,3" points="142,577 157,577 172,667 127,667"/>
+				<polygon id="bottom" opacity="0.25" fill="none" stroke="#000000" stroke-dasharray="1,3" points="127,697 172,697 157,787 142,787"/>
+				<polygon id="left" opacity="0.25" fill="none" stroke="#000000" stroke-dasharray="1,3" points="262,682 172,697 172,667"/>
+				<polygon id="right" opacity="0.25" fill="none" stroke="#000000" stroke-dasharray="1,3" points="37,682 127,667 127,697"/>
+			</g>
+			<g id="outline">
+				<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="157,577 182,657 172,667 262,682 172,697 182,707 157,787 142,787 117,707 127,697 37,682 127,667 117,657 142,577"/>
+			</g>
+		</g>
+		<g id="torso">
+			<g id="background">
+				<rect id="color:skin" x="292" y="362" fill="#CCBBCC" width="60" height="20"/>
+				<rect id="color:skin" x="292" y="712" fill="#CCBBCC" width="60" height="20"/>
+				<polygon id="color:skin" fill="#F4F4E1" points="262,502 382,502 382,592 262,592"/>
+				<polygon id="color:skin" fill="#F4F4E1" points="292,382 352,382 382,502 262,502"/>
+				<polygon id="color:skin" fill="#F4F4E1" points="352,712 292,712 262,592 382,592"/>
+				<polygon id="color:skin" fill="#F4F4E1" points="142,562 142,532 262,502 262,592"/>
+				<polygon id="color:skin" fill="#F4F4E1" points="502,532 502,562 382,592 382,502"/>
+			</g>
+			<g id="foreground">
+			</g>
+			<g id="border">
+				<polygon id="bottom" fill="none" points="262,502 382,502 382,592 262,592"/>
+				<polygon id="front" opacity="0.25" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="1,3" points="292,382 352,382 382,502 262,502"/>
+				<polygon id="back" opacity="0.25" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="1,3" points="352,712 292,712 262,592 382,592"/>
+				<polygon id="right" opacity="0.25" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="1,3" points="142,562 142,532 262,502 262,592"/>
+				<polygon id="left" opacity="0.25" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="1,3" points="502,532 502,562 382,592 382,502"/>
+			</g>
+			<g id="outline">
+				<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="352,362 292,362 292,382 282,392 252,492 262,502 142,532 142,562 262,592 252,602 282,702 292,712 292,732 352,732 352,712 362,702 392,602 382,592 502,562 502,532 382,502 392,492 362,392 352,382"/>
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="277" y1="527" x2="367" y2="527"/>
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="277" y1="567" x2="367" y2="567"/>
+			</g>
+		</g>
+		<g id="head">
+			<g id="background">
+				<rect id="color:skin" x="135" y="315" fill="#F4F4E1" width="120" height="120"/>
+				<rect id="color:skin" x="15" y="15" fill="#F4F4E1" width="120" height="90"/>
+				<rect id="color:skin" x="255" y="15" fill="#F4F4E1" width="120" height="90"/>
+				<rect id="color:skin" x="135" y="15" fill="#F4F4E1" width="120" height="90"/>
+				<rect id="color:skin" x="135" y="105" fill="#F4F4E1" width="120" height="120"/>
+				<rect id="color:skin" x="135" y="225" fill="#F4F4E1" width="120" height="90"/>
+			</g>
+			<g id="foreground">
+			</g>
+			<g id="border">
+				<polygon id="front" opacity="0.25" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="1,3" points="135,15 255,15 255,105 135,105"/>
+				<polygon id="back" opacity="0.25" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="1,3" points="135,225 255,225 255,315 135,315"/>
+				<polygon id="left" opacity="0.25" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="1,3" points="255,15 375,15 375,105 255,105"/>
+				<polygon id="right" opacity="0.25" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="1,3" points="15,15 135,15 135,105 15,105"/>
+				<polygon id="bottom" opacity="0.25" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="1,3" points="135,105 255,105 255,225 135,225"/>
+				<polygon id="top" opacity="0.25" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="1,3" points="135,315 255,315 255,435 135,435"/>
+			</g>
+			<g id="outline">
+				<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="255,105 265,115 365,115 385,95 385,25 365,5 265,5 255,15 245,5 145,5 135,15 125,5 25,5 5,25 5,95 25,115 125,115 135,105 135,435 255,435"/>
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="164.8" y1="180.1" x2="224.8" y2="180.1"/>
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="164.8" y1="149.9" x2="224.8" y2="149.9"/>
+			</g>
+		</g>
+		<g id="feet">
+			<g id="background">
+				<rect id="color:skin" x="408" y="345" fill="#CCBBCC" width="20" height="90"/>
+				<rect id="color:skin" x="448" y="175" fill="#CCBBCC" width="20" height="90"/>
+				<polygon id="color:skin" fill="#F4F4E1" points="458,435 458,345 498,345 498,435"/>
+				<polygon id="color:skin" fill="#F4F4E1" points="428,435 428,345 458,345 458,435"/>
+				<polygon id="color:skin" fill="#F4F4E1" points="498,435 498,345 528,345 528,435"/>
+				<polygon id="color:skin" fill="#F4F4E1" points="468,265 468,175 528,175 528,265"/>
+				<polygon id="color:skin" fill="#F4F4E1" points="528,435 528,345 608,345 608,435"/>
+				<polygon id="color:skin" fill="#F4F4E1" points="498,475 468,475 468,515 528,515 528,435 498,435"/>
+				<polygon id="color:skin" fill="#F4F4E1" points="498,305 468,305 468,265 528,265 528,345 498,345"/>
+			</g>
+			<g id="foreground">
+			</g>
+			<g id="border">
+				<polygon id="top" opacity="0.25" fill="none" stroke="#0C0C0C" stroke-dasharray="1,3" points="458,435 458,345 498,345 498,435"/>
+				<polygon id="leg" opacity="0.25" fill="none" stroke="#0C0C0C" stroke-dasharray="1,3" points="428,435 428,345 458,345 458,435"/>
+				<polygon id="toe" opacity="0.25" fill="none" stroke="#0C0C0C" stroke-dasharray="1,3" points="498,435 498,345 528,345 528,435"/>
+				<polygon id="back" opacity="0.25" fill="none" stroke="#0C0C0C" stroke-dasharray="1,3" points="468,265 468,175 528,175 528,265"/>
+				<polygon id="bottom" opacity="0.25" fill="none" stroke="#0C0C0C" stroke-dasharray="1,3" points="528,435 528,345 608,345 608,435"/>
+				<polygon id="right" opacity="0.25" fill="none" stroke="#0C0C0C" stroke-dasharray="1,3" points="498,475 468,475 468,515 528,515 528,435 498,435"/>
+				<polygon id="left" opacity="0.25" fill="none" stroke="#0C0C0C" stroke-dasharray="1,3" points="498,305 468,305 468,265 528,265 528,345 498,345"/>
+			</g>
+			<g id="outline">
+				<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="478,465 468,475 468,515 528,515 538,505 538,445 528,435 608,435 608,345 528,345 538,335 538,275 528,265 538,255 538,185 518,165 478,165 468,175 448,175 448,265 468,265 468,305 478,315 488,315 498,305 498,345 488,335 468,335 458,345 408,345 408,435 458,435 468,445 488,445 498,435 498,475 488,465"/>
+			</g>
+		</g>
+	</g>
+	<g id="overlay" display="none">
+		<polyline display="inline" fill="none" stroke="#000000" stroke-miterlimit="10" points="592,772 20,772 20,20 592,20"/>
+	</g>
+</svg>
